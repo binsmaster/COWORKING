@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "893896443845",
+    "firebase_url": "https://coworking-45731-default-rtdb.firebaseio.com",
+    "project_id": "coworking-45731",
+    "storage_bucket": "coworking-45731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893896443845:android:90a19226720e7a0e836dac",
+        "android_client_info": {
+          "package_name": "com.example.coworking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzcw9skxnPCrfRDCl2e60vdkzgnU0JEHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
